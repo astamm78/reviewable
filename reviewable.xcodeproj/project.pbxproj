@@ -27,6 +27,8 @@
 		E4125D602D76046100020BC4 /* reviewable.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = reviewable.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4125D702D76046300020BC4 /* reviewableTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = reviewableTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4125D7A2D76046300020BC4 /* reviewableUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = reviewableUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E4E053E22D760ED50002EFFE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E4E053E32D760F090002EFFE /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +77,8 @@
 		E4125D572D76046100020BC4 = {
 			isa = PBXGroup;
 			children = (
+				E4E053E32D760F090002EFFE /* .gitignore */,
+				E4E053E22D760ED50002EFFE /* README.md */,
 				E4125D622D76046100020BC4 /* reviewable */,
 				E4125D732D76046300020BC4 /* reviewableTests */,
 				E4125D7D2D76046300020BC4 /* reviewableUITests */,
