@@ -9,11 +9,14 @@ import Foundation
 import Alamofire
 
 enum NYTEndpoint {
+    case overview
     case lists(nytList: NYTList)
-    case reviewSearch(title: String?, author: String?, isbn: String?)
+    case reviewSearch(title: String?, author: String?)
     
     var path: String {
         switch self {
+        case .overview:
+            "overview.json"
         case .lists:
             "lists.json"
         case .reviewSearch:
@@ -25,19 +28,17 @@ enum NYTEndpoint {
         var baseParams: Parameters = ["api-key": Secrets.nytAPIKey.value ?? ""]
 
         switch self {
+        case .overview:
+            return baseParams
         case .lists(let nytList):
             baseParams["list"] = nytList.rawValue
-        case .reviewSearch(let title, let author, let isbn):
+        case .reviewSearch(let title, let author):
             if let title {
                 baseParams["title"] = title
             }
             
             if let author {
                 baseParams["author"] = author
-            }
-            
-            if let isbn {
-                baseParams["isbn"] = isbn
             }
         }
 

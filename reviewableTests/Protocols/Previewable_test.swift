@@ -28,4 +28,16 @@ final class Previewable_test: XCTestCase {
     func test_ReviewResultPreview() throws {
         XCTAssertNotNil(ReviewResult.preview)
     }
+    
+    func test_OverviewResponsePreview() throws {
+        XCTAssertNotNil(OverviewResponse.preview)
+    }
+    
+    func test_OverviewResultsPreview() throws {
+        XCTAssertNotNil(OverviewResults.preview)
+    }
+    
+    func test_OverviewListPreview() throws {
+        XCTAssertNotNil(OverviewList.preview)
+    }
 }

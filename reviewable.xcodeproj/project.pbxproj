@@ -82,8 +82,8 @@
 		E4125D572D76046100020BC4 = {
 			isa = PBXGroup;
 			children = (
-				E4E053E32D760F090002EFFE /* .gitignore */,
 				E4E053E22D760ED50002EFFE /* README.md */,
+				E4E053E32D760F090002EFFE /* .gitignore */,
 				E4125D622D76046100020BC4 /* reviewable */,
 				E4125D732D76046300020BC4 /* reviewableTests */,
 				E4125D7D2D76046300020BC4 /* reviewableUITests */,
