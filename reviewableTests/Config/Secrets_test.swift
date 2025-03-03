@@ -9,10 +9,6 @@ import XCTest
 @testable import reviewable
 
 final class Secrets_test: XCTestCase {
-    override func setUpWithError() throws {}
-
-    override func tearDownWithError() throws {}
-    
     func test_nytAPIKey() throws {
         XCTAssertNotNil(Secrets.nytAPIKey.value)
     }

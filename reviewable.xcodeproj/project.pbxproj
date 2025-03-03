@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		E47A48D12D7615D9006FD4A8 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = E47A48D02D7615D9006FD4A8 /* Alamofire */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		E4125D712D76046300020BC4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -54,6 +58,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E47A48D12D7615D9006FD4A8 /* Alamofire in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -116,6 +121,7 @@
 			);
 			name = reviewable;
 			packageProductDependencies = (
+				E47A48D02D7615D9006FD4A8 /* Alamofire */,
 			);
 			productName = reviewable;
 			productReference = E4125D602D76046100020BC4 /* reviewable.app */;
@@ -199,6 +205,9 @@
 			);
 			mainGroup = E4125D572D76046100020BC4;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				E47A48CF2D7615D9006FD4A8 /* XCRemoteSwiftPackageReference "Alamofire" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = E4125D612D76046100020BC4 /* Products */;
 			projectDirPath = "";
@@ -562,6 +571,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		E47A48CF2D7615D9006FD4A8 /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire/";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.10.2;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		E47A48D02D7615D9006FD4A8 /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E47A48CF2D7615D9006FD4A8 /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = Alamofire;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = E4125D582D76046100020BC4 /* Project object */;
 }
