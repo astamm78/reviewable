@@ -1,32 +1,2783 @@
 {
   "status": "OK",
-  "copyright": "Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
-  "num_results": 210,
+  "copyright": "Copyright (c) 2025 The New York Times Company.  All Rights Reserved.",
+  "num_results": 55,
   "results": {
-    "bestsellers_date": "2016-03-05",
-    "published_date": "2016-03-20",
+    "bestsellers_date": "2025-02-22",
+    "published_date": "2025-03-09",
+    "published_date_description": "latest",
+    "previous_published_date": "2025-03-02",
+    "next_published_date": "",
     "lists": [
       {
         "list_id": 704,
         "list_name": "Combined Print and E-Book Fiction",
+        "list_name_encoded": "combined-print-and-e-book-fiction",
         "display_name": "Combined Print & E-Book Fiction",
         "updated": "WEEKLY",
-        "list_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780399175954.jpg",
+        "list_image": null,
+        "list_image_width": null,
+        "list_image_height": null,
         "books": [
           {
             "age_group": "",
-            "author": "Clive Cussler and Justin Scott",
-            "contributor": "by Clive Cussler and Justin Scott",
+            "amazon_product_url": "https://www.amazon.com/dp/1649374186?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Rebecca Yarros",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781649374189.jpg",
+            "book_image_width": 310,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Rebecca Yarros",
             "contributor_note": "",
-            "created_date": "2016-03-10 12:00:22",
-            "description": "In the ninth book in this series, set in 1906, the New York detective Isaac Bell contends with a crime boss passing as a respectable businessman and a tycoon\u2019s plot against President Theodore Roosevelt.",
-            "price": 0,
-            "primary_isbn13": "9780698406421",
-            "primary_isbn10": 698406427,
-            "publisher": "Putnam",
+            "created_date": "2025-02-26 23:20:28",
+            "description": "The third book in the Empyrean series. As enemies gain traction, Violet Sorrengail goes beyond the Aretian wards in search of allies.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "None",
+            "primary_isbn13": "9781649376947",
+            "book_uri": "nyt://book/22f2d6c0-1acf-5969-8ea5-5e380fe88cca",
+            "publisher": "Red Tower",
             "rank": 1,
-            "title": "THE GANGSTER",
-            "updated_date": "2016-03-10 17:00:21"
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "ONYX STORM",
+            "updated_date": "2025-02-27 15:04:51",
+            "weeks_on_list": 5,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/1649374186?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781649376947?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649376947"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FONYX%2BSTORM%2FRebecca%2BYarros%2F9781649376947"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781649376947"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/0593548183?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Mark Greaney",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593548189.jpg",
+            "book_image_width": 331,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Mark Greaney",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:28",
+            "description": "The 14th book in the Gray Man series.  Gentry’s lover, a former spy for Russian foreign intelligence, is imprisoned in a Russian gulag.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0593548191",
+            "primary_isbn13": "9780593548196",
+            "book_uri": "nyt://book/0703922d-80c3-5e69-9f47-da3e65508490",
+            "publisher": "Berkley",
+            "rank": 2,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "MIDNIGHT BLACK",
+            "updated_date": "2025-02-27 15:04:51",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0593548183?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780593548196?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593548196"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMIDNIGHT%2BBLACK%2FMark%2BGreaney%2F9780593548196"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780593548196"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Kristin Hannah",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+            "book_image_width": 128,
+            "book_image_height": 195,
+            "book_review_link": "",
+            "contributor": "by Kristin Hannah",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:28",
+            "description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1250370116",
+            "primary_isbn13": "9781250370112",
+            "book_uri": "nyt://book/e02434aa-3be4-5618-b069-b01c3fbd0578",
+            "publisher": "St. Martin's",
+            "rank": 3,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THE NIGHTINGALE",
+            "updated_date": "2025-02-27 15:04:52",
+            "weeks_on_list": 70,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781250370112?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250370112"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BNIGHTINGALE%2FKristin%2BHannah%2F9781250370112"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781250370112"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Rebecca Yarros",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+            "book_image_width": 309,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Rebecca Yarros",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:28",
+            "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1649377371",
+            "primary_isbn13": "9781649377371",
+            "book_uri": "nyt://book/017bca50-9a0e-5f37-b0fe-5b58fabb0fa7",
+            "publisher": "Red Tower",
+            "rank": 4,
+            "rank_last_week": 4,
+            "sunday_review_link": "",
+            "title": "FOURTH WING",
+            "updated_date": "2025-02-27 15:04:52",
+            "weeks_on_list": 83,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781649377371?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649377371"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFOURTH%2BWING%2FRebecca%2BYarros%2F9781649377371"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781649377371"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/0593641051?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Ali Hazelwood",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593550441.jpg",
+            "book_image_width": 333,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Ali Hazelwood",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:28",
+            "description": "As the pressure leading up to the Olympics builds so do the feelings Lukas and Scarlett have for each other.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0593550447",
+            "primary_isbn13": "9780593550441",
+            "book_uri": "nyt://book/4de689eb-d61b-5086-ad6a-e9da83e339bc",
+            "publisher": "Berkley",
+            "rank": 5,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "DEEP END",
+            "updated_date": "2025-02-27 15:04:52",
+            "weeks_on_list": 3,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0593641051?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780593550441?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593550441"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDEEP%2BEND%2FAli%2BHazelwood%2F9780593550441"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780593550441"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 708,
+        "list_name": "Combined Print and E-Book Nonfiction",
+        "list_name_encoded": "combined-print-and-e-book-nonfiction",
+        "display_name": "Combined Print & E-Book Nonfiction",
+        "updated": "WEEKLY",
+        "list_image": null,
+        "list_image_width": null,
+        "list_image_height": null,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/0593798694?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Alexander C. Karp and Nicholas W. Zamiska",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593798690.jpg",
+            "book_image_width": 333,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Alexander C. Karp and Nicholas W. Zamiska",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:29",
+            "description": "Two senior leaders at Palantir Technologies enumerate what they see as potential global threats to the United States.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0593798694",
+            "primary_isbn13": "9780593798690",
+            "book_uri": "nyt://book/db7eee49-be29-58e3-9f0d-0d94381a11a1",
+            "publisher": "Crown Currency",
+            "rank": 1,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THE TECHNOLOGICAL REPUBLIC",
+            "updated_date": "2025-02-27 15:04:52",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0593798694?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780593798690?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593798690"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BTECHNOLOGICAL%2BREPUBLIC%2FAlexander%2BC.%2BKarp%2Band%2BNicholas%2BW.%2BZamiska%2F9780593798690"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780593798690"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/0063392305?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Tom Cotton",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063392304.jpg",
+            "book_image_width": 331,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Tom Cotton",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:29",
+            "description": "The Republican senator from Arkansas delineates what he perceives as threats from China.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0063392305",
+            "primary_isbn13": "9780063392304",
+            "book_uri": "nyt://book/16b638e2-0b41-5b14-8c15-a6ce5a8e8c66",
+            "publisher": "Broadside",
+            "rank": 2,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "SEVEN THINGS YOU CAN'T SAY ABOUT CHINA",
+            "updated_date": "2025-02-27 15:04:52",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0063392305?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780063392304?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063392304"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSEVEN%2BTHINGS%2BYOU%2BCAN%2527T%2BSAY%2BABOUT%2BCHINA%2FTom%2BCotton%2F9780063392304"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780063392304"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Timothy Snyder",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780804190114.jpg",
+            "book_image_width": 330,
+            "book_image_height": 465,
+            "book_review_link": "",
+            "contributor": "by Timothy Snyder",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:29",
+            "description": "Twenty lessons from the 20th century about the course of tyranny.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0804190119",
+            "primary_isbn13": "9780804190114",
+            "book_uri": "nyt://book/eeb07cb6-f672-5b8d-b85d-6ce6f62b1856",
+            "publisher": "Crown",
+            "rank": 3,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "ON TYRANNY",
+            "updated_date": "2025-02-27 15:04:52",
+            "weeks_on_list": 39,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780804190114?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780804190114"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FON%2BTYRANNY%2FTimothy%2BSnyder%2F9780804190114"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780804190114"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/0812988876?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Susan Morrison",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780812988871.jpg",
+            "book_image_width": 331,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Susan Morrison",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:29",
+            "description": "A biography of the creator and producer of “Saturday Night Live.”",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0812988876",
+            "primary_isbn13": "9780812988871",
+            "book_uri": "nyt://book/9b637a2f-2c75-55c6-bff4-c686624784df",
+            "publisher": "Random House",
+            "rank": 4,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "LORNE",
+            "updated_date": "2025-02-27 15:04:52",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0812988876?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780812988871?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780812988871"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLORNE%2FSusan%2BMorrison%2F9780812988871"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780812988871"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Bessel van der Kolk",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+            "book_image_width": 128,
+            "book_image_height": 193,
+            "book_review_link": "https://www.nytimes.com/2018/10/18/books/review/how-to-rewire-your-traumatized-brain.html",
+            "contributor": "by Bessel van der Kolk",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:29",
+            "description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0143127748",
+            "primary_isbn13": "9780143127741",
+            "book_uri": "nyt://book/e3e33e9d-0e67-5fec-b0d2-2ecddc38ce0e",
+            "publisher": "Penguin",
+            "rank": 5,
+            "rank_last_week": 5,
+            "sunday_review_link": "",
+            "title": "THE BODY KEEPS THE SCORE",
+            "updated_date": "2025-02-27 15:04:52",
+            "weeks_on_list": 231,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780143127741?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780143127741"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBODY%2BKEEPS%2BTHE%2BSCORE%2FBessel%2Bvan%2Bder%2BKolk%2F9780143127741"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780143127741"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 1,
+        "list_name": "Hardcover Fiction",
+        "list_name_encoded": "hardcover-fiction",
+        "display_name": "Hardcover Fiction",
+        "updated": "WEEKLY",
+        "list_image": null,
+        "list_image_width": null,
+        "list_image_height": null,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/1649374186?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Rebecca Yarros",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781649374189.jpg",
+            "book_image_width": 310,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Rebecca Yarros",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:22",
+            "description": "The third book in the Empyrean series. As enemies gain traction, Violet Sorrengail goes beyond the Aretian wards in search of allies.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1649377150",
+            "primary_isbn13": "9781649377159",
+            "book_uri": "nyt://book/8aa689f7-187e-5292-bfd4-e7fc7c2c535f",
+            "publisher": "Red Tower",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "ONYX STORM",
+            "updated_date": "2025-02-27 15:04:46",
+            "weeks_on_list": 5,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/1649374186?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781649377159?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649377159"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FONYX%2BSTORM%2FRebecca%2BYarros%2F9781649377159"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781649377159"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Kristin Hannah",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+            "book_image_width": 128,
+            "book_image_height": 195,
+            "book_review_link": "",
+            "contributor": "by Kristin Hannah",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:22",
+            "description": "Two sisters in World War II France: one struggling to survive in the countryside, the other joining the Resistance in Paris.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1250370116",
+            "primary_isbn13": "9781250370112",
+            "book_uri": "nyt://book/e02434aa-3be4-5618-b069-b01c3fbd0578",
+            "publisher": "St. Martin’s",
+            "rank": 2,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THE NIGHTINGALE",
+            "updated_date": "2025-02-27 15:04:46",
+            "weeks_on_list": 83,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/The-Nightingale-Kristin-Hannah/dp/0312577222?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781250370112?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250370112"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BNIGHTINGALE%2FKristin%2BHannah%2F9781250370112"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781250370112"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/1649374178?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Rebecca Yarros",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781649374172.jpg",
+            "book_image_width": 309,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Rebecca Yarros",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:22",
+            "description": "The second book in the Empyrean series. Violet Sorrengail’s next round of training under the new vice commandant might require her to betray the man she loves.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1649374178",
+            "primary_isbn13": "9781649374172",
+            "book_uri": "nyt://book/d3c570c9-3c3a-5c8b-a740-85ea5e92bfc9",
+            "publisher": "Red Tower",
+            "rank": 3,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "IRON FLAME",
+            "updated_date": "2025-02-27 15:04:46",
+            "weeks_on_list": 68,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/1649374178?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781649374172?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649374172"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIRON%2BFLAME%2FRebecca%2BYarros%2F9781649374172"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781649374172"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/0385550367?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Percival Everett",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385550369.jpg",
+            "book_image_width": 333,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Percival Everett",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:22",
+            "description": "A reimagining of “Adventures of Huckleberry Finn” shines a different light on Mark Twain's classic, revealing new facets of the character of Jim.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0385550367",
+            "primary_isbn13": "9780385550369",
+            "book_uri": "nyt://book/5788b098-426a-5f2c-a318-475692df69ee",
+            "publisher": "Doubleday",
+            "rank": 4,
+            "rank_last_week": 5,
+            "sunday_review_link": "",
+            "title": "JAMES",
+            "updated_date": "2025-02-27 15:04:46",
+            "weeks_on_list": 34,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0385550367?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780385550369?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385550369"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FJAMES%2FPercival%2BEverett%2F9780385550369"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780385550369"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/1250178630?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Kristin Hannah",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250178633.jpg",
+            "book_image_width": 333,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Kristin Hannah",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:22",
+            "description": "A nurse follows her brother to serve during the Vietnam War and returns to a divided America.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1250178630",
+            "primary_isbn13": "9781250178633",
+            "book_uri": "nyt://book/9ce735af-71cf-5ff3-a367-43ee07e3fdd7",
+            "publisher": "St. Martin's",
+            "rank": 5,
+            "rank_last_week": 6,
+            "sunday_review_link": "",
+            "title": "THE WOMEN",
+            "updated_date": "2025-02-27 15:04:46",
+            "weeks_on_list": 55,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/1250178630?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781250178633?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250178633"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWOMEN%2FKristin%2BHannah%2F9781250178633"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781250178633"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 2,
+        "list_name": "Hardcover Nonfiction",
+        "list_name_encoded": "hardcover-nonfiction",
+        "display_name": "Hardcover Nonfiction",
+        "updated": "WEEKLY",
+        "list_image": null,
+        "list_image_width": null,
+        "list_image_height": null,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/0063392305?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Tom Cotton",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063392304.jpg",
+            "book_image_width": 331,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Tom Cotton",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:25",
+            "description": "The Republican senator from Arkansas delineates what he perceives as threats from China.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0063392305",
+            "primary_isbn13": "9780063392304",
+            "book_uri": "nyt://book/16b638e2-0b41-5b14-8c15-a6ce5a8e8c66",
+            "publisher": "Broadside",
+            "rank": 1,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "SEVEN THINGS YOU CAN'T SAY ABOUT CHINA",
+            "updated_date": "2025-02-27 15:04:49",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0063392305?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780063392304?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063392304"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSEVEN%2BTHINGS%2BYOU%2BCAN%2527T%2BSAY%2BABOUT%2BCHINA%2FTom%2BCotton%2F9780063392304"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780063392304"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/0593798694?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Alexander C. Karp and Nicholas W. Zamiska",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593798690.jpg",
+            "book_image_width": 333,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Alexander C. Karp and Nicholas W. Zamiska",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:25",
+            "description": "Two senior leaders at Palantir Technologies enumerate what they see as potential global threats to the United States.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0593798694",
+            "primary_isbn13": "9780593798690",
+            "book_uri": "nyt://book/db7eee49-be29-58e3-9f0d-0d94381a11a1",
+            "publisher": "Crown Currency",
+            "rank": 2,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THE TECHNOLOGICAL REPUBLIC",
+            "updated_date": "2025-02-27 15:04:49",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0593798694?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780593798690?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593798690"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BTECHNOLOGICAL%2BREPUBLIC%2FAlexander%2BC.%2BKarp%2Band%2BNicholas%2BW.%2BZamiska%2F9780593798690"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780593798690"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/0593655036?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Jonathan Haidt",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593655030.jpg",
+            "book_image_width": 329,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Jonathan Haidt",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:25",
+            "description": "A co-author of “The Coddling of the American Mind” looks at the mental health impacts that a phone-based life has on children.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0593655036",
+            "primary_isbn13": "9780593655030",
+            "book_uri": "nyt://book/7557cf43-7888-5c15-8206-d3541cccd89b",
+            "publisher": "Penguin Press",
+            "rank": 3,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "THE ANXIOUS GENERATION",
+            "updated_date": "2025-02-27 15:04:49",
+            "weeks_on_list": 48,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0593655036?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780593655030?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593655030"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BANXIOUS%2BGENERATION%2FJonathan%2BHaidt%2F9780593655030"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780593655030"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/0812988876?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Susan Morrison",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780812988871.jpg",
+            "book_image_width": 331,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Susan Morrison",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:25",
+            "description": "A biography of the creator and producer of “Saturday Night Live.”",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0812988876",
+            "primary_isbn13": "9780812988871",
+            "book_uri": "nyt://book/9b637a2f-2c75-55c6-bff4-c686624784df",
+            "publisher": "Random House",
+            "rank": 4,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "LORNE",
+            "updated_date": "2025-02-27 15:04:49",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0812988876?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780812988871?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780812988871"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLORNE%2FSusan%2BMorrison%2F9780812988871"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780812988871"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/0593601203?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Melanie Shankle",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593601204.jpg",
+            "book_image_width": 331,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Melanie Shankle",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:25",
+            "description": "A co-host of the podcast \"The Big Boo Cast\" examines her faith and family dynamics.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0593601203",
+            "primary_isbn13": "9780593601204",
+            "book_uri": "nyt://book/99b5bb4a-614e-5b92-b204-45030cab24b6",
+            "publisher": "WaterBrook",
+            "rank": 5,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "HERE BE DRAGONS",
+            "updated_date": "2025-02-27 15:04:49",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0593601203?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780593601204?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593601204"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHERE%2BBE%2BDRAGONS%2FMelanie%2BShankle%2F9780593601204"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780593601204"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 17,
+        "list_name": "Trade Fiction Paperback",
+        "list_name_encoded": "trade-fiction-paperback",
+        "display_name": "Paperback Trade Fiction",
+        "updated": "WEEKLY",
+        "list_image": null,
+        "list_image_width": null,
+        "list_image_height": null,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/1464227322?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Freida McFadden",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781464227325.jpg",
+            "book_image_width": 313,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Freida McFadden",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:24",
+            "description": "A pregnant woman, who suffers an injury during a blizzard, is taken in by a couple who might put her life in further jeopardy.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1464227322",
+            "primary_isbn13": "9781464227325",
+            "book_uri": "nyt://book/c47ac082-4e0e-5bd2-ab6d-61724f736a76",
+            "publisher": "Poisoned Pen",
+            "rank": 1,
+            "rank_last_week": 5,
+            "sunday_review_link": "",
+            "title": "THE CRASH",
+            "updated_date": "2025-02-27 15:04:48",
+            "weeks_on_list": 4,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/1464227322?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781464227325?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781464227325"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BCRASH%2FFreida%2BMcFadden%2F9781464227325"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781464227325"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/0593641051?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Ali Hazelwood",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593550441.jpg",
+            "book_image_width": 333,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Ali Hazelwood",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:25",
+            "description": "As the pressure leading up to the Olympics builds so do the feelings Lukas and Scarlett have for each other.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0593550447",
+            "primary_isbn13": "9780593550441",
+            "book_uri": "nyt://book/4de689eb-d61b-5086-ad6a-e9da83e339bc",
+            "publisher": "Berkley",
+            "rank": 2,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "DEEP END",
+            "updated_date": "2025-02-27 15:04:48",
+            "weeks_on_list": 3,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0593641051?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780593550441?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593550441"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDEEP%2BEND%2FAli%2BHazelwood%2F9780593550441"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780593550441"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/1538742578?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Freida McFadden",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781538742570.jpg",
+            "book_image_width": 333,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Freida McFadden",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:25",
+            "description": "Troubles surface when a woman looking to make a fresh start takes a job in the home of the Winchesters.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1538742578",
+            "primary_isbn13": "9781538742570",
+            "book_uri": "nyt://book/34b29640-4b8c-59a9-8cf8-470356da1e2f",
+            "publisher": "Grand Central",
+            "rank": 3,
+            "rank_last_week": 4,
+            "sunday_review_link": "",
+            "title": "THE HOUSEMAID",
+            "updated_date": "2025-02-27 15:04:48",
+            "weeks_on_list": 96,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/1538742578?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781538742570?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538742570"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BHOUSEMAID%2FFreida%2BMcFadden%2F9781538742570"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781538742570"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Rebecca Yarros",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+            "book_image_width": 309,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Rebecca Yarros",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:25",
+            "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1649377371",
+            "primary_isbn13": "9781649377371",
+            "book_uri": "nyt://book/017bca50-9a0e-5f37-b0fe-5b58fabb0fa7",
+            "publisher": "Red Tower",
+            "rank": 4,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "FOURTH WING",
+            "updated_date": "2025-02-27 15:04:48",
+            "weeks_on_list": 23,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781649377371?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649377371"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFOURTH%2BWING%2FRebecca%2BYarros%2F9781649377371"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781649377371"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/163893181X?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Brynne Weaver",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781638931812.jpg",
+            "book_image_width": 330,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Brynne Weaver",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:25",
+            "description": "The third book in the Ruinous Love series. A circus motorcycle performer involved in devious exploits gets close to a doctor.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "163893181X",
+            "primary_isbn13": "9781638931812",
+            "book_uri": "nyt://book/68b517ab-d14a-5563-a8c7-3679cb9daa43",
+            "publisher": "Slowburn",
+            "rank": 5,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "SCYTHE & SPARROW",
+            "updated_date": "2025-02-27 15:04:48",
+            "weeks_on_list": 2,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/163893181X?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781638931812?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781638931812"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSCYTHE%2B%2526%2BSPARROW%2FBrynne%2BWeaver%2F9781638931812"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781638931812"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 4,
+        "list_name": "Paperback Nonfiction",
+        "list_name_encoded": "paperback-nonfiction",
+        "display_name": "Paperback Nonfiction",
+        "updated": "WEEKLY",
+        "list_image": null,
+        "list_image_width": null,
+        "list_image_height": null,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Timothy Snyder",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780804190114.jpg",
+            "book_image_width": 330,
+            "book_image_height": 465,
+            "book_review_link": "",
+            "contributor": "by Timothy Snyder",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:27",
+            "description": "Twenty lessons from the 20th century about the course of tyranny.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0804190119",
+            "primary_isbn13": "9780804190114",
+            "book_uri": "nyt://book/eeb07cb6-f672-5b8d-b85d-6ce6f62b1856",
+            "publisher": "Crown",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "ON TYRANNY",
+            "updated_date": "2025-02-27 15:04:50",
+            "weeks_on_list": 110,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780804190114?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780804190114"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FON%2BTYRANNY%2FTimothy%2BSnyder%2F9780804190114"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780804190114"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Bessel van der Kolk",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+            "book_image_width": 128,
+            "book_image_height": 193,
+            "book_review_link": "https://www.nytimes.com/2018/10/18/books/review/how-to-rewire-your-traumatized-brain.html",
+            "contributor": "by Bessel van der Kolk",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:27",
+            "description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0143127748",
+            "primary_isbn13": "9780143127741",
+            "book_uri": "nyt://book/e3e33e9d-0e67-5fec-b0d2-2ecddc38ce0e",
+            "publisher": "Penguin",
+            "rank": 2,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "THE BODY KEEPS THE SCORE",
+            "updated_date": "2025-02-27 15:04:50",
+            "weeks_on_list": 331,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780143127741?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780143127741"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBODY%2BKEEPS%2BTHE%2BSCORE%2FBessel%2Bvan%2Bder%2BKolk%2F9780143127741"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780143127741"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture-ebook/dp/B0166ISAS8?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "JD Vance",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by JD Vance",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:27",
+            "description": "The vice president, in a memoir written shortly after graduating from Yale Law School, looks at the struggles of the white working class through the story of his own childhood.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0062300555",
+            "primary_isbn13": "9780062300553",
+            "book_uri": "nyt://book/076b0d8c-4c0a-5755-806b-5b7be09cbc12",
+            "publisher": "Harper",
+            "rank": 3,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "HILLBILLY ELEGY",
+            "updated_date": "2025-02-27 15:04:50",
+            "weeks_on_list": 97,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture-ebook/dp/B0166ISAS8?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780062300553?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062300553"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHILLBILLY%2BELEGY%2FJD%2BVance%2F9780062300553"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780062300553"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/0593139135?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Matthew McConaughey",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+            "book_image_width": 392,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Matthew McConaughey",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:27",
+            "description": "The Academy Award-winning actor shares snippets from the diaries he kept over 35 years.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0593139151",
+            "primary_isbn13": "9780593139158",
+            "book_uri": "nyt://book/b4e4df4c-b7e1-5db6-a8f3-79c534ee4212",
+            "publisher": "Crown",
+            "rank": 4,
+            "rank_last_week": 4,
+            "sunday_review_link": "",
+            "title": "GREENLIGHTS",
+            "updated_date": "2025-02-27 15:04:50",
+            "weeks_on_list": 15,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0593139135?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780593139158?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593139158"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGREENLIGHTS%2FMatthew%2BMcConaughey%2F9780593139158"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780593139158"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/0593536134?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Amy Tan",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593536131.jpg",
+            "book_image_width": 379,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Amy Tan",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:27",
+            "description": "Essays and drawings by the author of “The Joy Luck Club” and “The Bonesetter's Daughter,” which depict a search for peace through birding.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0593536134",
+            "primary_isbn13": "9780593536131",
+            "book_uri": "nyt://book/1bde7fcf-f70c-5c94-8303-fb918ea1007e",
+            "publisher": "Knopf",
+            "rank": 5,
+            "rank_last_week": 5,
+            "sunday_review_link": "",
+            "title": "THE BACKYARD BIRD CHRONICLES",
+            "updated_date": "2025-02-27 15:04:50",
+            "weeks_on_list": 38,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0593536134?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780593536131?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593536131"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBACKYARD%2BBIRD%2BCHRONICLES%2FAmy%2BTan%2F9780593536131"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780593536131"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 24,
+        "list_name": "Advice How-To and Miscellaneous",
+        "list_name_encoded": "advice-how-to-and-miscellaneous",
+        "display_name": "Advice, How-To & Miscellaneous",
+        "updated": "WEEKLY",
+        "list_image": null,
+        "list_image_width": null,
+        "list_image_height": null,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Mel Robbins",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781401971366.jpg",
+            "book_image_width": 333,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Mel Robbins",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:26",
+            "description": "",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1401971369",
+            "primary_isbn13": "9781401971366",
+            "book_uri": "nyt://book/9639c9a8-e41f-50f7-beca-289f3fdd52af",
+            "publisher": "Hay House",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "THE LET THEM THEORY",
+            "updated_date": "2025-02-27 15:04:50",
+            "weeks_on_list": 9,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781401971366?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781401971366"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLET%2BTHEM%2BTHEORY%2FMel%2BRobbins%2F9781401971366"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781401971366"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "James Clear",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780735211292.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by James Clear",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:26",
+            "description": "",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0735211299",
+            "primary_isbn13": "9780735211292",
+            "book_uri": "nyt://book/0398a355-c032-534e-a0af-647b06f0840d",
+            "publisher": "Avery",
+            "rank": 2,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "ATOMIC HABITS",
+            "updated_date": "2025-02-27 15:04:50",
+            "weeks_on_list": 274,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780735211292?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735211292"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FATOMIC%2BHABITS%2FJames%2BClear%2F9780735211292"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780735211292"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/0593539214?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Mariann Edgar Budde",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593539224.jpg",
+            "book_image_width": 328,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Mariann Edgar Budde",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:26",
+            "description": "",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0593539214",
+            "primary_isbn13": "9780593539217",
+            "book_uri": "nyt://book/ef2dcb65-fcd7-5a41-8e5c-821851ce3c5c",
+            "publisher": "Avery",
+            "rank": 3,
+            "rank_last_week": 4,
+            "sunday_review_link": "",
+            "title": "HOW WE LEARN TO BE BRAVE",
+            "updated_date": "2025-02-27 15:04:50",
+            "weeks_on_list": 3,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0593539214?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780593539217?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593539217"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BWE%2BLEARN%2BTO%2BBE%2BBRAVE%2FMariann%2BEdgar%2BBudde%2F9780593539217"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780593539217"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/1734654805?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Jim Murphy",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781734654806.jpg",
+            "book_image_width": 334,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Jim Murphy",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:26",
+            "description": "",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1734654805",
+            "primary_isbn13": "9781734654806",
+            "book_uri": "nyt://book/46f5571e-5676-5504-9532-5c3154593f58",
+            "publisher": "Academy of Excellence",
+            "rank": 4,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "INNER EXCELLENCE",
+            "updated_date": "2025-02-27 15:04:50",
+            "weeks_on_list": 6,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/1734654805?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781734654806?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781734654806"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FINNER%2BEXCELLENCE%2FJim%2BMurphy%2F9781734654806"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781734654806"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/dp/059372318X?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Sahil Bloom",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593723180.jpg",
+            "book_image_width": 331,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Sahil Bloom",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:26",
+            "description": "",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "059372318X",
+            "primary_isbn13": "9780593723180",
+            "book_uri": "nyt://book/59878e7f-2959-5406-9606-c78b35a6e9c2",
+            "publisher": "Ballantine",
+            "rank": 5,
+            "rank_last_week": 5,
+            "sunday_review_link": "",
+            "title": "THE 5 TYPES OF WEALTH",
+            "updated_date": "2025-02-27 15:04:50",
+            "weeks_on_list": 3,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/059372318X?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780593723180?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593723180"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2B5%2BTYPES%2BOF%2BWEALTH%2FSahil%2BBloom%2F9780593723180"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780593723180"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 13,
+        "list_name": "Childrens Middle Grade Hardcover",
+        "list_name_encoded": "childrens-middle-grade-hardcover",
+        "display_name": "Children’s Middle Grade Hardcover",
+        "updated": "WEEKLY",
+        "list_image": null,
+        "list_image_width": null,
+        "list_image_height": null,
+        "books": [
+          {
+            "age_group": "Ages 10 and up",
+            "amazon_product_url": "https://www.amazon.com/dp/0593809866?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Katherine Rundell.",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593809860.jpg",
+            "book_image_width": 355,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Katherine Rundell. Illustrated by Ashley Mackenzie",
+            "contributor_note": "Illustrated by Ashley Mackenzie",
+            "created_date": "2025-02-26 23:20:23",
+            "description": "A young boy is enlisted to save a place where magical creatures reside. (Ages 10 and up)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0593809866",
+            "primary_isbn13": "9780593809860",
+            "book_uri": "nyt://book/734698f3-1895-5a88-adda-5648ef91313f",
+            "publisher": "Knopf",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "IMPOSSIBLE CREATURES",
+            "updated_date": "2025-02-27 15:04:47",
+            "weeks_on_list": 24,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0593809866?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780593809860?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593809860"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIMPOSSIBLE%2BCREATURES%2FKatherine%2BRundell.%2F9780593809860"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780593809860"
+              }
+            ]
+          },
+          {
+            "age_group": "Ages 8 and up",
+            "amazon_product_url": "https://www.amazon.com/Complete-Cookbook-Young-Chefs/dp/1492670022?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "America's Test Kitchen Kids",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781492670025.jpg",
+            "book_image_width": 330,
+            "book_image_height": 419,
+            "book_review_link": "",
+            "contributor": "by America's Test Kitchen Kids",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:23",
+            "description": "Over 100 kid-tested recipes from America's Test Kitchen. (Ages 8 and up)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1492670022",
+            "primary_isbn13": "9781492670025",
+            "book_uri": "nyt://book/894e62dd-9e61-570a-ad32-6f4617d323e5",
+            "publisher": "Sourcebooks Jabberwocky",
+            "rank": 2,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "THE COMPLETE COOKBOOK FOR YOUNG CHEFS",
+            "updated_date": "2025-02-27 15:04:47",
+            "weeks_on_list": 238,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Complete-Cookbook-Young-Chefs/dp/1492670022?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781492670025?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781492670025"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BCOMPLETE%2BCOOKBOOK%2BFOR%2BYOUNG%2BCHEFS%2FAmerica%2527s%2BTest%2BKitchen%2BKids%2F9781492670025"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781492670025"
+              }
+            ]
+          },
+          {
+            "age_group": "Ages 10 and up",
+            "amazon_product_url": "https://www.amazon.com/dp/166595972X?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Megan E. Freeman",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665959728.jpg",
+            "book_image_width": 331,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Megan E. Freeman",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:24",
+            "description": "A group of children in a relocation camp investigate why they were driven from their homes. (Ages 10 and up)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "166595972X",
+            "primary_isbn13": "9781665959728",
+            "book_uri": "nyt://book/ee9a2d3d-e757-529a-be95-80ed9fdbf6b9",
+            "publisher": "Aladdin",
+            "rank": 3,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "AWAY",
+            "updated_date": "2025-02-27 15:04:47",
+            "weeks_on_list": 2,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/166595972X?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781665959728?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665959728"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAWAY%2FMegan%2BE.%2BFreeman%2F9781665959728"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781665959728"
+              }
+            ]
+          },
+          {
+            "age_group": "Ages 8 to 12",
+            "amazon_product_url": "http://www.amazon.com/Wonder-R-J-Palacio-ebook/dp/B0051ANPZQ?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "R.J. Palacio",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780375899881.jpg",
+            "book_image_width": 329,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by R.J. Palacio",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:24",
+            "description": "A boy with a facial deformity starts school. (Ages 8 to 12)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0375869026",
+            "primary_isbn13": "9780375869020",
+            "book_uri": "nyt://book/ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
+            "publisher": "Knopf",
+            "rank": 4,
+            "rank_last_week": 6,
+            "sunday_review_link": "https://www.nytimes.com/2012/04/08/books/review/wonder-by-r-j-palacio.html",
+            "title": "WONDER",
+            "updated_date": "2025-02-27 15:04:47",
+            "weeks_on_list": 481,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Wonder-R-J-Palacio-ebook/dp/B0051ANPZQ?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780375869020?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780375869020"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWONDER%2FR.J.%2BPalacio%2F9780375869020"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780375869020"
+              }
+            ]
+          },
+          {
+            "age_group": "Ages 8 to 12",
+            "amazon_product_url": "https://www.amazon.com/Little-Leaders-Women-Black-History/dp/0316475114?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Vashti Harrison",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316475112.jpg",
+            "book_image_width": 330,
+            "book_image_height": 410,
+            "book_review_link": "",
+            "contributor": "by Vashti Harrison",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:24",
+            "description": "The biographies of 40 African-American women who made a difference. (Ages 8 to 12)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0316475114",
+            "primary_isbn13": "9780316475112",
+            "book_uri": "nyt://book/cb51822f-0f9a-52c8-b301-1d6961a45ab3",
+            "publisher": "Little, Brown",
+            "rank": 5,
+            "rank_last_week": 4,
+            "sunday_review_link": "",
+            "title": "LITTLE LEADERS",
+            "updated_date": "2025-02-27 15:04:47",
+            "weeks_on_list": 85,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Little-Leaders-Women-Black-History/dp/0316475114?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780316475112?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316475112"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLITTLE%2BLEADERS%2FVashti%2BHarrison%2F9780316475112"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780316475112"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 7,
+        "list_name": "Picture Books",
+        "list_name_encoded": "picture-books",
+        "display_name": "Children’s Picture Books",
+        "updated": "WEEKLY",
+        "list_image": null,
+        "list_image_width": null,
+        "list_image_height": null,
+        "books": [
+          {
+            "age_group": "Ages 4 to 8",
+            "amazon_product_url": "https://www.amazon.com/dp/0593564537?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Bess Kalb.",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9798217030651.jpg",
+            "book_image_width": 500,
+            "book_image_height": 389,
+            "book_review_link": "",
+            "contributor": "by Bess Kalb. Illustrated by Erin Kraan",
+            "contributor_note": "Illustrated by Erin Kraan",
+            "created_date": "2025-02-26 23:20:27",
+            "description": "A buffalo's posturing is exposed when the rain falls. (Ages 4 to 8)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "None",
+            "primary_isbn13": "9798217030651",
+            "book_uri": "nyt://book/e8e04323-19e3-50ed-bf49-c4801a461189",
+            "publisher": "Random House Studio",
+            "rank": 1,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "BUFFALO FLUFFALO",
+            "updated_date": "2025-02-27 15:04:51",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0593564537?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9798217030651?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9798217030651"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBUFFALO%2BFLUFFALO%2FBess%2BKalb.%2F9798217030651"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9798217030651"
+              }
+            ]
+          },
+          {
+            "age_group": "Ages 4 to 10",
+            "amazon_product_url": "http://www.amazon.com/How-Catch-Leprechaun-Adam-Wallace/dp/1492632910?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Adam Wallace.",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781492632917.jpg",
+            "book_image_width": 330,
+            "book_image_height": 348,
+            "book_review_link": "",
+            "contributor": "by Adam Wallace. Illustrated by Andy Elkerton",
+            "contributor_note": "Illustrated by Andy Elkerton",
+            "created_date": "2025-02-26 23:20:27",
+            "description": "This is the year you'll finally catch a leprechaun. (Ages 4 to 10)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1492632910",
+            "primary_isbn13": "9781492632917",
+            "book_uri": "nyt://book/3743a4b3-e142-5aa1-ae0c-8bd18e728488",
+            "publisher": "Sourcebooks Jabberwocky",
+            "rank": 2,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "HOW TO CATCH A LEPRECHAUN",
+            "updated_date": "2025-02-27 15:04:51",
+            "weeks_on_list": 37,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/How-Catch-Leprechaun-Adam-Wallace/dp/1492632910?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781492632917?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781492632917"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BCATCH%2BA%2BLEPRECHAUN%2FAdam%2BWallace.%2F9781492632917"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781492632917"
+              }
+            ]
+          },
+          {
+            "age_group": "Ages 3 to 7",
+            "amazon_product_url": "http://www.amazon.com/The-Wonderful-Things-You-Will/dp/0385376715?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Emily Winfield Martin",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385376716.jpg",
+            "book_image_width": 330,
+            "book_image_height": 347,
+            "book_review_link": "",
+            "contributor": "by Emily Winfield Martin",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:27",
+            "description": "A celebration of future possibilities. (Ages 3 to 7)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0385376715",
+            "primary_isbn13": "9780385376716",
+            "book_uri": "nyt://book/36cac861-60d3-511f-ba6d-edc88c6e938e",
+            "publisher": "Random House",
+            "rank": 3,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THE WONDERFUL THINGS YOU WILL BE",
+            "updated_date": "2025-02-27 15:04:51",
+            "weeks_on_list": 418,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/The-Wonderful-Things-You-Will/dp/0385376715?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780385376716?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385376716"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWONDERFUL%2BTHINGS%2BYOU%2BWILL%2BBE%2FEmily%2BWinfield%2BMartin%2F9780385376716"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780385376716"
+              }
+            ]
+          },
+          {
+            "age_group": "Ages 3 to 5",
+            "amazon_product_url": "http://www.amazon.com/Dragons-Love-Tacos-Adam-Rubin/dp/0803736800?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Adam Rubin.",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780803736801.jpg",
+            "book_image_width": 330,
+            "book_image_height": 330,
+            "book_review_link": "",
+            "contributor": "by Adam Rubin. Illustrated by Daniel Salmieri",
+            "contributor_note": "Illustrated by Daniel Salmieri",
+            "created_date": "2025-02-26 23:20:28",
+            "description": "What to serve your dragon-guests. (Ages 3 to 5)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0803736800",
+            "primary_isbn13": "9780803736801",
+            "book_uri": "nyt://book/25d4f970-1f30-515b-a88c-691b4854bc63",
+            "publisher": "Dial",
+            "rank": 4,
+            "rank_last_week": 8,
+            "sunday_review_link": "",
+            "title": "DRAGONS LOVE TACOS",
+            "updated_date": "2025-02-27 15:04:51",
+            "weeks_on_list": 466,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Dragons-Love-Tacos-Adam-Rubin/dp/0803736800?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780803736801?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780803736801"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDRAGONS%2BLOVE%2BTACOS%2FAdam%2BRubin.%2F9780803736801"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780803736801"
+              }
+            ]
+          },
+          {
+            "age_group": "Ages 4 to 8",
+            "amazon_product_url": "https://www.amazon.com/dp/0593659589?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Joe Brumm",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593659588.jpg",
+            "book_image_width": 500,
+            "book_image_height": 410,
+            "book_review_link": "",
+            "contributor": "by Joe Brumm",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:28",
+            "description": "Bingo wants to do a big girl sleep and wake up in her own bed. (Ages 4 to 8)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0593659589",
+            "primary_isbn13": "9780593659588",
+            "book_uri": "nyt://book/fc663be4-30ce-5a2b-876f-8b6b1731d4b9",
+            "publisher": "Penguin",
+            "rank": 5,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "BLUEY: SLEEPYTIME",
+            "updated_date": "2025-02-27 15:04:51",
+            "weeks_on_list": 35,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0593659589?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780593659588?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593659588"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBLUEY%253A%2BSLEEPYTIME%2FJoe%2BBrumm%2F9780593659588"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780593659588"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 10,
+        "list_name": "Series Books",
+        "list_name_encoded": "series-books",
+        "display_name": "Children’s & Young Adult Series",
+        "updated": "WEEKLY",
+        "list_image": null,
+        "list_image_width": null,
+        "list_image_height": null,
+        "books": [
+          {
+            "age_group": "Ages 12 and up",
+            "amazon_product_url": "http://www.amazon.com/Mockingjay-Final-Book-Hunger-Games/dp/0545663261?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Suzanne Collins",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780545663267.jpg",
+            "book_image_width": 322,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Suzanne Collins",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:23",
+            "description": "In a dystopia, a girl fights for survival on live TV. (Ages 12 and up)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "154617186X",
+            "primary_isbn13": "9781546171867",
+            "book_uri": "nyt://book/6ed6bfce-139a-51d0-bf09-93b1840ef4fd",
+            "publisher": "Scholastic",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "THE HUNGER GAMES",
+            "updated_date": "2025-02-27 15:04:46",
+            "weeks_on_list": 359,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Mockingjay-Final-Book-Hunger-Games/dp/0545663261?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781546171867?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781546171867"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BHUNGER%2BGAMES%2FSuzanne%2BCollins%2F9781546171867"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781546171867"
+              }
+            ]
+          },
+          {
+            "age_group": "Ages 9 to 12",
+            "amazon_product_url": "http://www.amazon.com/Diary-Wimpy-Kid-Hard-Luck/dp/1419711326?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "and   Jeff Kinney",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419711329.jpg",
+            "book_image_width": 330,
+            "book_image_height": 484,
+            "book_review_link": "",
+            "contributor": "written and illustrated by Jeff Kinney",
+            "contributor_note": "written and illustrated by Jeff Kinney",
+            "created_date": "2025-02-26 23:20:23",
+            "description": "The travails and challenges of adolescence. (Ages 9 to 12)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1419766953",
+            "primary_isbn13": "9781419766954",
+            "book_uri": "nyt://book/a7e08e8a-179e-51da-a332-c95139b0cbd7",
+            "publisher": "Amulet",
+            "rank": 2,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "DIARY OF A WIMPY KID",
+            "updated_date": "2025-02-27 15:04:46",
+            "weeks_on_list": 832,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Diary-Wimpy-Kid-Hard-Luck/dp/1419711326?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781419766954?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781419766954"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDIARY%2BOF%2BA%2BWIMPY%2BKID%2Fand%2B%2B%2BJeff%2BKinney%2F9781419766954"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781419766954"
+              }
+            ]
+          },
+          {
+            "age_group": "Ages 7 to 12",
+            "amazon_product_url": "https://www.amazon.com/dp/0316669415?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Peter Brown",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316669412.jpg",
+            "book_image_width": 341,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Peter Brown",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:23",
+            "description": "Roz the robot adapts to her surroundings on a remote, wild island. (Ages 7 to 12)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0316382000",
+            "primary_isbn13": "9780316382007",
+            "book_uri": "nyt://book/58650411-6a43-5082-89a6-9e2c62832d2f",
+            "publisher": "Little, Brown",
+            "rank": 3,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "THE WILD ROBOT",
+            "updated_date": "2025-02-27 15:04:46",
+            "weeks_on_list": 57,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/0316669415?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780316382007?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316382007"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWILD%2BROBOT%2FPeter%2BBrown%2F9780316382007"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780316382007"
+              }
+            ]
+          },
+          {
+            "age_group": "Ages 13 and up",
+            "amazon_product_url": "https://www.amazon.com/dp/141977378X?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Alex Aster",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419773785.jpg",
+            "book_image_width": 333,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Alex Aster",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:23",
+            "description": "Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place. (Ages 13 and up)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1419760874",
+            "primary_isbn13": "9781419760877",
+            "book_uri": "nyt://book/072a11c1-910e-5bfb-8bcb-b8850052e9c1",
+            "publisher": "Amulet",
+            "rank": 4,
+            "rank_last_week": 6,
+            "sunday_review_link": "",
+            "title": "LIGHTLARK SAGA",
+            "updated_date": "2025-02-27 15:04:47",
+            "weeks_on_list": 13,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/141977378X?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781419760877?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781419760877"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLIGHTLARK%2BSAGA%2FAlex%2BAster%2F9781419760877"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781419760877"
+              }
+            ]
+          },
+          {
+            "age_group": "Ages 10 and up",
+            "amazon_product_url": "http://www.amazon.com/Harry-Potter-And-Order-Phoenix/dp/0439358078?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "J.K. Rowling",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780590353427.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by J.K. Rowling",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:23",
+            "description": "A wizard hones his conjuring skills in the service of fighting evil. (Ages 10 and up)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1338878921",
+            "primary_isbn13": "9781338878929",
+            "book_uri": "nyt://book/9df40295-9d1e-5ee8-ba89-ba22d2992500",
+            "publisher": "Scholastic",
+            "rank": 5,
+            "rank_last_week": 4,
+            "sunday_review_link": "",
+            "title": "HARRY POTTER",
+            "updated_date": "2025-02-27 15:04:47",
+            "weeks_on_list": 831,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Harry-Potter-And-Order-Phoenix/dp/0439358078?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781338878929?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781338878929"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHARRY%2BPOTTER%2FJ.K.%2BRowling%2F9781338878929"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781338878929"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 14,
+        "list_name": "Young Adult Hardcover",
+        "list_name_encoded": "young-adult-hardcover",
+        "display_name": "Young Adult Hardcover",
+        "updated": "WEEKLY",
+        "list_image": null,
+        "list_image_width": null,
+        "list_image_height": null,
+        "books": [
+          {
+            "age_group": "Ages 13 to 18",
+            "amazon_product_url": "https://www.amazon.com/dp/1250866928?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Kristen Ciccarelli",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250866929.jpg",
+            "book_image_width": 324,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Kristen Ciccarelli",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:24",
+            "description": "Rune and Gideon must join forces to stop a sinister plot by Cressida Roseblood. (Ages 13 to 18)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1250866928",
+            "primary_isbn13": "9781250866929",
+            "book_uri": "nyt://book/cbcdcb7a-2289-5b3d-a94b-573ce6618255",
+            "publisher": "Wednesday",
+            "rank": 1,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "REBEL WITCH",
+            "updated_date": "2025-02-27 15:04:47",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/1250866928?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781250866929?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250866929"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FREBEL%2BWITCH%2FKristen%2BCiccarelli%2F9781250866929"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781250866929"
+              }
+            ]
+          },
+          {
+            "age_group": "Ages 12 to 18",
+            "amazon_product_url": "https://www.amazon.com/dp/1368098452?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Allison Saft",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368098458.jpg",
+            "book_image_width": 328,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Allison Saft",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:24",
+            "description": "Clarion, the successor to the throne of Pixie Hollow, is determined to confront a monster that threatens the land. (Ages 12 to 18)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1368098452",
+            "primary_isbn13": "9781368098458",
+            "book_uri": "nyt://book/82cac24f-d64b-5cb6-8811-47f2c12d94fc",
+            "publisher": "Disney",
+            "rank": 2,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "WINGS OF STARLIGHT",
+            "updated_date": "2025-02-27 15:04:47",
+            "weeks_on_list": 3,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/1368098452?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781368098458?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781368098458"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWINGS%2BOF%2BSTARLIGHT%2FAllison%2BSaft%2F9781368098458"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781368098458"
+              }
+            ]
+          },
+          {
+            "age_group": "Ages 13 to 18",
+            "amazon_product_url": "https://www.amazon.com/dp/1250866901?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Kristen Ciccarelli",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250866905.jpg",
+            "book_image_width": 324,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Kristen Ciccarelli",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:24",
+            "description": "Rune, a witch, and Gideon, a witch-hunter, fall in love. (Ages 13 to 18)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1250866901",
+            "primary_isbn13": "9781250866905",
+            "book_uri": "nyt://book/0e1f5357-a938-5fd2-9d08-9866f744d835",
+            "publisher": "Wednesday",
+            "rank": 3,
+            "rank_last_week": 5,
+            "sunday_review_link": "",
+            "title": "HEARTLESS HUNTER",
+            "updated_date": "2025-02-27 15:04:48",
+            "weeks_on_list": 23,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/1250866901?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781250866905?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250866905"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHEARTLESS%2BHUNTER%2FKristen%2BCiccarelli%2F9781250866905"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781250866905"
+              }
+            ]
+          },
+          {
+            "age_group": "Ages 11 to 15",
+            "amazon_product_url": "http://www.amazon.com/Way-Things-Work-Now/dp/0544824385?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "David Macaulay with Neil Ardley",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780544824386.jpg",
+            "book_image_width": 330,
+            "book_image_height": 429,
+            "book_review_link": "",
+            "contributor": "by David Macaulay with Neil Ardley",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:24",
+            "description": "An updated edition looks at how physics intersects with the everyday. (Ages 11 to 15)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "0544824385",
+            "primary_isbn13": "9780544824386",
+            "book_uri": "nyt://book/67bb62af-0409-5a64-8e99-a925864eef6e",
+            "publisher": "Clarion",
+            "rank": 4,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THE WAY THINGS WORK NOW",
+            "updated_date": "2025-02-27 15:04:48",
+            "weeks_on_list": 5,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Way-Things-Work-Now/dp/0544824385?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9780544824386?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780544824386"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWAY%2BTHINGS%2BWORK%2BNOW%2FDavid%2BMacaulay%2Bwith%2BNeil%2BArdley%2F9780544824386"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9780544824386"
+              }
+            ]
+          },
+          {
+            "age_group": "Ages 14 and up",
+            "amazon_product_url": "https://www.amazon.com/dp/1665947136?tag=thenewyorktim-20",
+            "article_chapter_link": "",
+            "author": "Lynn Painter",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665947138.jpg",
+            "book_image_width": 331,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Lynn Painter",
+            "contributor_note": "",
+            "created_date": "2025-02-26 23:20:24",
+            "description": "In this sequel to \"Better Than the Movies,\" Wes tries to win back the heart of Liz. (Ages 14 and up)",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1665947136",
+            "primary_isbn13": "9781665947138",
+            "book_uri": "nyt://book/d71f55ea-333d-53c8-a745-78f5760cdfba",
+            "publisher": "Simon & Schuster",
+            "rank": 5,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "NOTHING LIKE THE MOVIES",
+            "updated_date": "2025-02-27 15:04:48",
+            "weeks_on_list": 21,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/dp/1665947136?tag=thenewyorktim-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https://goto.applebooks.apple/9781665947138?at=10lIEQ"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665947138"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNOTHING%2BLIKE%2BTHE%2BMOVIES%2FLynn%2BPainter%2F9781665947138"
+              },
+              {
+                "name": "Bookshop.org",
+                "url": "https://bookshop.org/a/3546/9781665947138"
+              }
+            ]
           }
         ]
       }

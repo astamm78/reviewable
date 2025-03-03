@@ -15,6 +15,8 @@ struct OverviewResponse: Codable, Previewable {
     var numResults: Int
     var results: OverviewResults
     
+    var lists: [OverviewList] { results.lists }
+    
     private enum CodingKeys: String, CodingKey {
         case status, copyright, results
         case numResults = "num_results"

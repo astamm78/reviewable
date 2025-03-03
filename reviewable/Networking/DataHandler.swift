@@ -19,6 +19,9 @@ struct DataHandler {
         guard let data else {
             throw DataHandlerError.emptyDataError
         }
+
+        let json = try? JSONSerialization.jsonObject(with: data, options: []) as? [String : Any]
+        print(json ?? "NO JSON")
         
         do {
             let responseObject: T = try JSONDecoder().decode(T.self, from: data)

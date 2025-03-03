@@ -7,17 +7,17 @@
 
 import Foundation
 
-struct OverviewList: Codable, Previewable {
+struct OverviewList: Codable, Previewable, Identifiable {
     typealias PreviewType = OverviewList
     
-    var listID: Int
+    var id: Int
     var displayName: String
-    var imageURLString: String
+    var imageURLString: String?
     var books: [BookDetails]
     
     private enum CodingKeys: String, CodingKey {
         case books
-        case listID = "list_id"
+        case id = "list_id"
         case displayName = "display_name"
         case imageURLString = "list_image"
     }

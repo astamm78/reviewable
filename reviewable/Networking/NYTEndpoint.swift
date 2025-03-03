@@ -16,7 +16,7 @@ enum NYTEndpoint {
     var path: String {
         switch self {
         case .overview:
-            "overview.json"
+            "lists/overview.json"
         case .lists:
             "lists.json"
         case .reviewSearch:
