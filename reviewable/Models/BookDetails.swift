@@ -7,8 +7,10 @@
 
 import Foundation
 
-struct BookDetails: Codable, Previewable {
+struct BookDetails: Codable, Previewable, Identifiable {
     typealias PreviewType = BookDetails
+    
+    var id: String { title }
     
     var title: String
     var description: String

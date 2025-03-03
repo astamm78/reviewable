@@ -15,6 +15,12 @@ struct OverviewList: Codable, Previewable, Identifiable {
     var imageURLString: String?
     var books: [BookDetails]
     
+    var imageURL: URL? {
+        guard let imageURLString else { return nil }
+        
+        return URL(string: imageURLString)
+    }
+    
     private enum CodingKeys: String, CodingKey {
         case books
         case id = "list_id"

@@ -12,6 +12,7 @@ struct BookDetailsCell: View {
     
     var body: some View {
         Text(bookDetails.title)
+            .font(.title3)
     }
 }
 

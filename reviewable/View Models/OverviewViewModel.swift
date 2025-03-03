@@ -20,7 +20,7 @@ class OverviewViewModel {
     init() {}
     
     func loadData() async {
-        guard let overviewResponse else {
+        guard let _ = overviewResponse else {
             do {
                 let overviewResponse = try await ListService.getOverview()
                 await self.handleOverviewResponse(overviewResponse)
