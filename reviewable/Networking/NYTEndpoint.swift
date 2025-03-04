@@ -11,7 +11,7 @@ import Alamofire
 enum NYTEndpoint {
     case overview
     case lists(nytList: NYTList)
-    case reviewSearch(title: String?, author: String?)
+    case reviewSearch(title: String?, author: String?, isbn: String?)
     
     var path: String {
         switch self {
@@ -32,13 +32,17 @@ enum NYTEndpoint {
             return baseParams
         case .lists(let nytList):
             baseParams["list"] = nytList.rawValue
-        case .reviewSearch(let title, let author):
+        case .reviewSearch(let title, let author, let isbn):
             if let title {
                 baseParams["title"] = title
             }
             
             if let author {
                 baseParams["author"] = author
+            }
+            
+            if let isbn {
+                baseParams["isbn"] = isbn
             }
         }
 

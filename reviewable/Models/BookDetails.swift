@@ -16,4 +16,12 @@ struct BookDetails: Codable, Previewable, Identifiable {
     var description: String
     var author: String
     var publisher: String
+    var primaryISBN13: String
+    var primaryISBN10: String
+    
+    private enum CodingKeys: String, CodingKey {
+        case title, description, author, publisher
+        case primaryISBN13 = "primary_isbn13"
+        case primaryISBN10 = "primary_isbn10"
+    }
 }
